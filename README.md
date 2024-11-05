@@ -15,5 +15,4 @@ Per l'esecuzione:
 
    1. Scaricare i tre file presenti nella repository, un file .py e due file .sh;
    2. Dalla cartella di download, aprire un terminale e fornire in ordine i comandi "chmod +x Esame_AIeT_GabriciDavide_installazione.sh" e "./Esame_AIeT_GabriciDavide_installazione.sh";
-   3. Spostarsi nella cartella appena creata in Home, chiamata "Esame_GabriciDavide", oppure aprire lì un nuovo terminale e fornire il comando "./Esame_AIeT_GabriciDavide_esecuzione.sh".
-
+   3. Spostarsi nella cartella appena creata in Home, chiamata "Esame_GabriciDavide", e fornire il comando "./Esame_AIeT_GabriciDavide_esecuzione.sh".
